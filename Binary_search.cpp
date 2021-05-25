@@ -20,4 +20,6 @@ int main()
     cout << Binary_Search(arr, 0, 6, 87) << endl;
     cout << Binary_Search(arr, 0, 6, 76) << endl;
     cout << Binary_Search(arr, 0, 6, 300) <<endl;
+
+    return 0;
 }
